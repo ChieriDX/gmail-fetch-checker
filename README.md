@@ -1,5 +1,7 @@
 # Gmail Fetch Checker
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/eejgjdamlelilmhdddlcobdijonjkepb?logo=googlechrome&style=flat)](https://chromewebstore.google.com/detail/gmail-fetch-checker/eejgjdamlelilmhdddlcobdijonjkepb)
+
 ## 📌 概要 / Overview
 
 Gmailに設定したPOP3アカウントのメールを手動で取得する操作が面倒だったため、自分用に作成したChrome拡張機能です。  
