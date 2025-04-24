@@ -31,15 +31,23 @@ Originally developed for personal use, now available on the Chrome Web Store for
 
 ## 💡 使い方 / Usage
 
-1. Gmailを開く  
-2. 「すべての設定を表示」をクリック  
-3. 「アカウントとインポート」タブを開く  
-4. 拡張機能を実行すると、自動で「今すぐ確認」を全アカウントに対して実行します
+### 🇯🇵 日本語
 
-1. Open Gmail  
-2. Click "See all settings"  
-3. Go to the "Accounts and Import" tab  
-4. Run the extension — it will automatically click "Check mail now" for all accounts
+1. 拡張機能のアイコンをクリックします  
+2. Gmailの「アカウントとインポート」設定ページが自動で開きます  
+3. 数秒後、自動的にすべての「今すぐ確認」ボタンがクリックされ、メールが取得されます  
+
+✅ Gmailを開いたり、設定タブを自分で開く必要はありません！
+
+---
+
+### 🌐 English
+
+1. Click the extension icon  
+2. The Gmail "Accounts and Import" settings page will open automatically  
+3. After a few seconds, the extension will automatically click all "Check mail now" buttons and fetch your POP emails  
+
+✅ You don’t need to manually open Gmail or navigate to the settings tab!
 
 ---
 
