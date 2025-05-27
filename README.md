@@ -1,6 +1,7 @@
 # Gmail Fetch Checker
-
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/eejgjdamlelilmhdddlcobdijonjkepb?logo=googlechrome&style=flat)](https://chromewebstore.google.com/detail/gmail-fetch-checker/eejgjdamlelilmhdddlcobdijonjkepb)
+[![GitHub release](https://img.shields.io/github/v/release/ChieriDX/gmail-fetch-checker.svg)](https://github.com/ChieriDX/gmail-fetch-checker/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/eejgjdamlelilmhdddlcobdijonjkepb.svg)](https://chromewebstore.google.com/detail/gmail-fetch-checker/eejgjdamlelilmhdddlcobdijonjkepb)  
 
 ## 📌 概要 / Overview
 
